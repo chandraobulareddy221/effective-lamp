@@ -1,0 +1,7 @@
+E:\LocalApps\Promotion_Engine\Promotion_Engine\bin\Debug\Promotion_Engine.exe.config
+E:\LocalApps\Promotion_Engine\Promotion_Engine\bin\Debug\Promotion_Engine.exe
+E:\LocalApps\Promotion_Engine\Promotion_Engine\bin\Debug\Promotion_Engine.pdb
+E:\LocalApps\Promotion_Engine\Promotion_Engine\obj\Debug\Promotion_Engine.csprojAssemblyReference.cache
+E:\LocalApps\Promotion_Engine\Promotion_Engine\obj\Debug\Promotion_Engine.csproj.CoreCompileInputs.cache
+E:\LocalApps\Promotion_Engine\Promotion_Engine\obj\Debug\Promotion_Engine.exe
+E:\LocalApps\Promotion_Engine\Promotion_Engine\obj\Debug\Promotion_Engine.pdb
